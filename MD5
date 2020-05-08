@@ -1,0 +1,13 @@
+9e8437cf8051bfc418f1446449123ad7 *DESCRIPTION
+4d556cb86aa9ccfed8d9b7c3f7b62b45 *NAMESPACE
+accc7a3221c1422af0fcf1f033f522d0 *R/Functions_SystemicR.R
+e19a3876077df8268a502623ffdb3927 *data/data_state_variables.rda
+2dd25646474acb9c2cedf1667a726258 *data/data_stock_returns.rda
+a1b413082089e06e003958b52ff1ea19 *data/datalist
+ae8d4dfca0f18a2efa1448af66a39dcd *man/data_state_variables.Rd
+29155d4d3974bea69b4c457f7360a5c4 *man/data_stock_returns.Rd
+3a25e4e1dc9d9acc8be0cd8c3835eacf *man/f_CoVaR_Delta_CoVaR_i_q.Rd
+ae812b5748029c13db1b1eb3eaabb5ed *man/f_CoVaR_Delta_CoVaR_i_q_t.Rd
+466a9d016c4a792da877bd5b4b7be2a5 *man/f_correlation_network_measures.Rd
+e7f65018407a9d3241a7e6b6bb1e7e38 *man/f_plot.Rd
+f0d359a53cdf99c0cd747b586689b4f2 *man/f_scale.Rd

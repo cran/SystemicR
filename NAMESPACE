@@ -1,0 +1,3 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("graphics", "plot")
+importFrom("stats", "qnorm", "sd")

@@ -1,0 +1,17 @@
+Package: SystemicR
+Type: Package
+Title: Monitoring Systemic Risk
+Version: 0.1.0
+Authors@R: person("Jean-Baptiste", "Hasse", email = "jb-hasse@hotmail.fr", role = c("aut", "cre"))
+Description: The past decade has demonstrated an increased need to better understand risks leading to systemic crises. This framework offers scholars, practitioners and policymakers a useful toolbox to explore such risks in financial systems. Specifically, this framework provides popular econometric and network measures to monitor systemic risk and to measure the consequences of regulatory decisions. These systemic risk measures are based on the frameworks of Adrian and Brunnermeier (2016) <doi:10.1257/aer.20120555> and Billio, Getmansky, Lo and Pelizzon (2012) <doi:10.1016/j.jfineco.2011.12.010>.
+Depends: R (>= 2.10)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: igraph, Matrix, quantreg, xts
+NeedsCompilation: no
+Packaged: 2020-05-05 13:54:53 UTC; jb-ha
+Author: Jean-Baptiste Hasse [aut, cre]
+Maintainer: Jean-Baptiste Hasse <jb-hasse@hotmail.fr>
+Repository: CRAN
+Date/Publication: 2020-05-08 09:20:02 UTC
